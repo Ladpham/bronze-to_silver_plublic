@@ -7,10 +7,10 @@ def substituir_nomes(query_antiga):
         'data-bronze-prd-12.sandbox.fpa_classifica_industria': 'data-silver-prd-11.fpa.fpa_classifica_industria',
         'data-bronze-prd-12.sandbox.controladoria_Cashout_Installments_Settled_com_Anticipation': 'data-silver-prd-11.fpa.fpa_controladoria_cashout_anticipation',
         'data-bronze-prd-12.sandbox.fpa_credit_engine': 'data-silver-prd-11.fpa.fpa_credit_engine',
-        'data-bronze-prd-12.sandbox.fpa_novo_recorrente': 'data-silver-prd-11.data_silver.companies'
-        'data-bronze-prd-12.core.companies': 'data-silver-prd-11.data_silver.companies'
-        'data-bronze-prd-12.core.invoices': 'data-silver-prd-11.data_silver.invoices'
-        'data-bronze-prd-12.sandbox.vw_credit_portfolio': 'data-silver-prd-11.credit.installments_payment_registry'
+        'data-bronze-prd-12.sandbox.fpa_novo_recorrente': 'data-silver-prd-11.data_silver.companies',
+        'data-bronze-prd-12.core.companies': 'data-silver-prd-11.data_silver.companies',
+        'data-bronze-prd-12.core.invoices': 'data-silver-prd-11.data_silver.invoices',
+        'data-bronze-prd-12.sandbox.vw_credit_portfolio': 'data-silver-prd-11.credit.installments_payment_registry',
         'sandbox.vw_credit_portfolio': 'data-silver-prd-11.credit.installments_payment_registry'
 
     }
